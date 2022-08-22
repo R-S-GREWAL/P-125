@@ -1,0 +1,34 @@
+.heading {
+    color: rgb(5, 5, 128);
+    font-size: large;
+    font-weight: lighter;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    width: 90%;
+    box-shadow: -15px 15px 15px rgb(7, 51, 146);
+    margin: 0px;
+}
+.note {
+    font-size: medium;
+    color: rgb(93, 12, 170);
+}
+.copy_right_footer {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    position: fixed;
+    color: rgb(7, 7, 145);
+    background-color: cadetblue;
+    box-shadow: 10px 10px 10px rgb(7, 51, 146);
+    line-height: 2;
+    text-align: center;
+    bottom: 5;
+    width: 250px;
+}
+canvas {
+    border: 5px solid rgb(11, 23, 136);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgb(138, 58, 138);
+}
+#body {
+    background: url("https://i.pinimg.com/736x/e1/ed/58/e1ed58b0b905f13ad801dedde1aa186f.jpg");
+    background-repeat: no-repeat;
+    background-size: 1200px 510px;
+}
